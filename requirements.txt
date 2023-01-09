@@ -1,0 +1,13 @@
+jupyter
+numpy
+matplotlib
+pandas
+snakeviz
+tqdm
+scikit-learn
+seaborn
+tensorflow
+pydot
+pydotplus
+graphviz
+mat73

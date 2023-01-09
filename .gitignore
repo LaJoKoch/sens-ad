@@ -1,0 +1,21 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+.idea
+
+# VSCode settings 
+.vscode
+
+# IPython Notebook
+.ipynb_checkpoints
+
+# pickle files and data
+*.pkl
+models/
+data/
+
+# profiling and tensorflow reports
+*.prof
+logs/
+*.dat

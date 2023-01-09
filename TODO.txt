@@ -1,0 +1,12 @@
+(A) Hyperparameter Optimization  
+    - best network topology?
+    - how many time steps should one sample contain (SEQ_LEN)?
+    - is it better to predict one time step (like implemented) or many?
+    - best BATCH_SIZE and number of EPOCHS?
+(B) physical model 
+    - include and test it with Gazebo model
+    - expand SimScape model 
+        - script with different test sequences to automate data generation
+        - whole model of bearing surface and pillar from the operating table 
+    - data augmentation 
+(C) live processing with a digital twin 
